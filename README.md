@@ -5,3 +5,4 @@ Automatic awnser exploit for ttrockstars Be aware that Time table rockstars anti
 If you want to edit or modify the code and make your own version please credit this original script and usercromix.
 
 Github - https://github.com/usercromix/TTrockstars-Devil
+GreasyFork - https://greasyfork.org/en/scripts/491187-ttrockstars-devil
