@@ -51,7 +51,7 @@
             }
 
             let el = document.createElement("div");
-            el.setAttribute("href", "projectuc.online");
+            el.setAttribute("href", "https://github.com/usercromix/TTrockstars-Devil");
             el.setAttribute("target", "_blank");
             for (var i = 0; i < top.children.length; i++) {
                 top.children[i].remove();
