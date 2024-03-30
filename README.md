@@ -1,5 +1,5 @@
 # TTrockstars-Devil
-New TTrockstars Devil Menu when shift + m pressed on keyboard.Editable toggle button and speed!!
+New TTrockstars Devil Menu when Shift + M pressed on keyboard.Editable toggle button and speed!!
 
 ![dmttrockstars](https://github.com/usercromix/TTrockstars-Devil/assets/128599139/60f82d07-6ebb-4aec-99d9-20b4d059ef61)
 
