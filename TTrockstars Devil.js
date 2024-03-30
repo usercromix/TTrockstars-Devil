@@ -135,7 +135,7 @@
 
     // Menu content
     var menuContent = "<div style='margin-bottom: 20px; text-align: center; font-size: 20px; font-weight: bold; color: #333;'>TTRockstars Devil Menu</div>" +
-                      "<div style='margin-bottom: 20px;'>Recommended to change toggle key before going into a round! Also, speed might be a little buggy so change it if you know how to use!</div>" +
+                      "<div style='margin-bottom: 20px;'>Recommended to change toggle key before going into a round! Also, speed might be a little buggy so change it if you know how to use!To open and close menu Shift + M on keyboard</div>" +
                       "<label style='margin-bottom: 15px; display: block;'>Toggle Key: <input type='text' id='toggleKey' value='" + String.fromCharCode(toggleKey) + "' style='width: 30px; text-align: center;'></label>" +
                       "<label style='margin-bottom: 15px; display: block;'>Speed: <input type='text' id='speed' value='" + speed + "' style='width: 50px; text-align: center;'></label>" +
                       "<button id='apply' style='padding: 8px 15px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer; margin-right: 10px; transition: transform 0.3s;'>Apply Changes</button>" +
