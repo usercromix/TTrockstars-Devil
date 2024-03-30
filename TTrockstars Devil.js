@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Automatic answer bot for https://play.ttrockstars.com/
 // @author       usercromix
+// @license      TTrockstars Devil © 2024 by usercromix, © All Rights Reserved
 // @match        https://play.ttrockstars.com/*
 // @icon         https://play.ttrockstars.com/ttrs-favicon.png
 // @grant        GM_log
